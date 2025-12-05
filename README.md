@@ -1,6 +1,6 @@
 # Redis Clone
 
-Uma implementação simples de um servidor Redis em Go, com suporte ao protocolo RESP (Redis Serialization Protocol).
+Uma implementação simples de um servidor Redis em Go, com suporte ao protocolo [RESP (Redis Serialization Protocol)](https://redis.io/docs/latest/develop/reference/protocol-spec/).
 
 ## O que foi implementado
 
